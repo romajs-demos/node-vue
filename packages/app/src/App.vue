@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import HelloWorld from "@romajs-demos/node-vue-lib/src/components/HelloWorld/";
 
 export default {
   name: "App",

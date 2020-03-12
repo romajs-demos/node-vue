@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "@romajs-demos/node-vue-app",
   "version": "0.0.0",
   "private": true,
   "description": "> TODO: description",
@@ -16,6 +16,7 @@
   },
   "main": "index.js",
   "dependencies": {
+    "@romajs-demos/node-vue-lib": "^0.0.0",
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
   },
@@ -32,6 +33,7 @@
     "eslint-plugin-vue": "^6.1.2",
     "lint-staged": "^9.5.0",
     "prettier": "^1.19.1",
+    "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
   },
   "_id": "app@0.0.0",
