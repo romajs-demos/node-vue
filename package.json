@@ -1,0 +1,21 @@
+{
+  "name": "@romajs-demos/node-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "lerna bootstrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romajs-demos/node-vue.git"
+  },
+  "author": "Romualdo Santos <romajslit@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romajs-demos/node-vue/issues"
+  },
+  "homepage": "https://github.com/romajs-demos/node-vue#readme",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
